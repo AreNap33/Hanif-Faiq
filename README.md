@@ -2,10 +2,10 @@
 
 Group Name: __Fill your team name__. 
 
-Section: 7 
+Section: __Fill your class section__. 
 
 Team Mates:
-1. Muhammad Hanif Faiq Bin Mazlan 2221773
+1. __Fill name__ and __matric no__
 2. __Fill name__ and __matric no__
 3. __Fill name__ and __matric no__
 
